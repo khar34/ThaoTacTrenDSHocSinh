@@ -1,0 +1,14 @@
+C:\Users\tuank\RiderProjects\BaiTapA\BaiTapA\bin\Debug\net8.0\BaiTapA.exe
+C:\Users\tuank\RiderProjects\BaiTapA\BaiTapA\bin\Debug\net8.0\BaiTapA.deps.json
+C:\Users\tuank\RiderProjects\BaiTapA\BaiTapA\bin\Debug\net8.0\BaiTapA.runtimeconfig.json
+C:\Users\tuank\RiderProjects\BaiTapA\BaiTapA\bin\Debug\net8.0\BaiTapA.dll
+C:\Users\tuank\RiderProjects\BaiTapA\BaiTapA\bin\Debug\net8.0\BaiTapA.pdb
+C:\Users\tuank\RiderProjects\BaiTapA\BaiTapA\obj\Debug\net8.0\BaiTapA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuank\RiderProjects\BaiTapA\BaiTapA\obj\Debug\net8.0\BaiTapA.AssemblyInfoInputs.cache
+C:\Users\tuank\RiderProjects\BaiTapA\BaiTapA\obj\Debug\net8.0\BaiTapA.AssemblyInfo.cs
+C:\Users\tuank\RiderProjects\BaiTapA\BaiTapA\obj\Debug\net8.0\BaiTapA.csproj.CoreCompileInputs.cache
+C:\Users\tuank\RiderProjects\BaiTapA\BaiTapA\obj\Debug\net8.0\BaiTapA.dll
+C:\Users\tuank\RiderProjects\BaiTapA\BaiTapA\obj\Debug\net8.0\refint\BaiTapA.dll
+C:\Users\tuank\RiderProjects\BaiTapA\BaiTapA\obj\Debug\net8.0\BaiTapA.pdb
+C:\Users\tuank\RiderProjects\BaiTapA\BaiTapA\obj\Debug\net8.0\BaiTapA.genruntimeconfig.cache
+C:\Users\tuank\RiderProjects\BaiTapA\BaiTapA\obj\Debug\net8.0\ref\BaiTapA.dll
